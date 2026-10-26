@@ -1,0 +1,125 @@
+{
+  "window": [
+    2005,
+    2022
+  ],
+  "n_countries_analyzed": 153,
+  "n_country_rows_before_filters": 218,
+  "category_counts": {
+    "Relative decoupling": 63,
+    "Absolute decoupling": 43,
+    "Coupled growth": 40,
+    "GDP fell": 7
+  },
+  "absolute_decouplers": [
+    "Australia",
+    "Austria",
+    "Belarus",
+    "Belgium",
+    "Bulgaria",
+    "Canada",
+    "Croatia",
+    "Cuba",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Gabon",
+    "Germany",
+    "Hong Kong",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Jamaica",
+    "Japan",
+    "Latvia",
+    "Lebanon",
+    "Lithuania",
+    "Mexico",
+    "Netherlands",
+    "New Zealand",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Trinidad and Tobago",
+    "United Kingdom",
+    "United States",
+    "Uzbekistan"
+  ],
+  "absolute_decouplers_share_of_world_co2_end": 0.2906206558007053,
+  "consumption_check": {
+    "decouplers_with_consumption_data": 37,
+    "still_decoupled_on_consumption_basis": 26,
+    "lost_on_consumption_basis": [
+      "Australia",
+      "Belarus",
+      "Cyprus",
+      "Hong Kong",
+      "Jamaica",
+      "Latvia",
+      "Lithuania",
+      "Mexico",
+      "Poland",
+      "Switzerland",
+      "Trinidad and Tobago"
+    ],
+    "median_territorial_pct": -24.39922681027419,
+    "median_consumption_pct": -16.376517950989278
+  },
+  "world": {
+    "gdp_pct_sum_of_countries": 76.87995941479133,
+    "co2_pct": 26.78751013845051
+  },
+  "focus": {
+    "USA": {
+      "gdp_pct": 32.843130974364975,
+      "co2_pct": -17.48844399854217,
+      "cons_pct": -16.376517950989278,
+      "category": "Absolute decoupling"
+    },
+    "GBR": {
+      "gdp_pct": 20.97862483771784,
+      "co2_pct": -45.45024178644944,
+      "cons_pct": -34.34991701846225,
+      "category": "Absolute decoupling"
+    },
+    "DEU": {
+      "gdp_pct": 32.73347859225335,
+      "co2_pct": -23.048923814352218,
+      "cons_pct": -19.751086806777995,
+      "category": "Absolute decoupling"
+    },
+    "CHN": {
+      "gdp_pct": 213.45119266105166,
+      "co2_pct": 99.11298742211609,
+      "cons_pct": 124.40086428600634,
+      "category": "Relative decoupling"
+    },
+    "IND": {
+      "gdp_pct": 179.17101330268585,
+      "co2_pct": 136.83692308721902,
+      "cons_pct": 111.85611112167378,
+      "category": "Relative decoupling"
+    },
+    "BRA": {
+      "gdp_pct": 49.699002247523374,
+      "co2_pct": 31.749782501900548,
+      "cons_pct": 33.278426474464,
+      "category": "Relative decoupling"
+    }
+  },
+  "map_join": {
+    "map_countries": 176,
+    "matched": 149
+  }
+}
